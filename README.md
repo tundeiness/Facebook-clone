@@ -88,6 +88,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Future Improvements
 
-[ checkbox:unchecked ] Improve UI.
-[ checkbox:unchecked ] Add chat App.
+* [ ] unchecked Improve UI.
+* [ ] unchecked Add chat App.
 
