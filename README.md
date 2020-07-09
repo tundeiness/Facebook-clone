@@ -23,6 +23,7 @@
   * [Features](#Features)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
+* [Testing](#testing)
 * [Contact](#Contact)
 * [License](#license)
 * [Future Improvements](#future-improvements)
@@ -41,6 +42,7 @@
 
 ### Built With
 * [Ruby on Rails](https://rubyonrails.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 ### Features
@@ -76,9 +78,26 @@ Click on the Demo link below and login in with the following details as a regist
 [Demo](https://sheltered-taiga-65616.herokuapp.com/)
 
 
+
+## Testing
+
+The following test suites were used to test this project:
+- RSpec
+- Factory Bot
+- Capybara
+
+Run the test in a local server: 
+```sh
+rspec -fd
+```
+
+
 ## Contact
 * [Olga Pelts](https://github.com/pelzolga123) 
 * [Tunde Oretade](https://github.com/tundeiness)
+* Email - [tundeiness@yahoo.co.uk](tundeines@yahoo.co.uk)
+* LinkedIn - [Tunde Oretade](https://www.linkedin.com/in/tunde-oretade/)
+
 
 
 <!-- LICENSE -->
